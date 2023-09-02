@@ -1,0 +1,9 @@
+{
+  "name": "amazon-scraper",
+  "version": "1.0.0",
+  "description": "Scraping data from Amazon",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hoang Tran",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "amazon-scraper-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Hoang Tran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.36.2",
+    "user-agents": "^1.0.1444",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
